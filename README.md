@@ -1,1 +1,1 @@
-# BotCity-Academy---Curso-Python-Basics
+# Curso | Python Basics - Introdução e Mão na Massa
